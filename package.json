@@ -1,7 +1,7 @@
 {
   "name": "rxtest1",
   "version": "1.0.0",
-  "description": "Metadata server for RXALITI",
+  "description": "Metadata server for PROJECT NAME",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
